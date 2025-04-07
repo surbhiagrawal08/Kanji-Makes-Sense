@@ -3,7 +3,7 @@ import java.util.Map;
 import java.util.Random;
 import java.util.Scanner;
 
-public class KanjiQuizWithHistory {
+public class KanjiQuizApp {
     private static final Map<String, String[]> kanjiData = new HashMap<>();
 
     static {
